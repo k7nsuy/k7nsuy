@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangwoo</h1>
 <h3 align="center">A passionate backend developer from S.Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k7nsuy" alt="k7nsuy" /></a> </p>
-
 - 🔭 I’m currently working on **Bespin Global Tech Center**
 
 - 🌱 I’m currently learning **Node.js(Express.js and Nest.js)**
