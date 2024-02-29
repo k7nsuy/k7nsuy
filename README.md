@@ -5,7 +5,7 @@
  
 <br />
 
-- 🔭 I’m currently looking for a job ****
+- 🔭 I’m currently looking for a job as a software engineer ****
 - 🌱 I’m currently learning **Full stack(Javascript, React, React Native, Typescript, Nest.js)**
 - 📝 I regularly write articles on [https://velog.io/@k7nsuy](https://velog.io/@k7nsuy)
 - 💬 Ask me about **Backend and DevOps**
