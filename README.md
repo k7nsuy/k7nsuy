@@ -5,10 +5,10 @@
  
 <br />
 
-- 🔭 I’m currently working on **Bespin Global Tech Center**
-- 🌱 I’m currently learning **Node.js(Express.js and Nest.js)**
+- 🔭 I’m currently looking for a job ****
+- 🌱 I’m currently learning **Full stack(Javascript, React, React Native, Typescript, Nest.js)**
 - 📝 I regularly write articles on [https://velog.io/@k7nsuy](https://velog.io/@k7nsuy)
-- 💬 Ask me about **Node.js and DevOps**
+- 💬 Ask me about **Backend and DevOps**
 - 📫 How to reach me **k7nsuy2@gmail.com**
 
 <br />
