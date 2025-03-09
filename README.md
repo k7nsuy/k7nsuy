@@ -1,14 +1,14 @@
 
 <br />
-<h1 align="center">Hi 👋, I'm Sangwoo 😄</h1>
+<h1 align="center">Hi 👋, I'm Jordan 😄</h1>
 <!-- <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" -->
  
 <br />
 
-- 🔭 I’m currently looking for a job as a software engineer ****
-- 🌱 I’m currently learning **Full stack(Javascript, React, React Native, Typescript, Nest.js)**
+- 🔭 I’m currently looking for a job as a DevOps Engineer ****
+- 🌱 I’m currently learning **Full Stacks(AWS, Docker, Kubernetes, Monitoring, CI/CD, Terraform, Ansible, Typescript, Nest.js)**
 - 📝 I regularly write articles on [https://velog.io/@k7nsuy](https://velog.io/@k7nsuy)
-- 💬 Ask me about **Backend and DevOps**
+- 💬 Ask me about **DevOps**
 - 📫 How to reach me **k7nsuy2@gmail.com**
 
 <br />
