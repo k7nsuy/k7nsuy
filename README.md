@@ -5,10 +5,10 @@
  
 <br />
 
-- 🔭 I’m currently looking for a job as a DevOps Engineer ****
-- 🌱 I’m currently learning **Full Stacks(AWS, Docker, Kubernetes, Monitoring, CI/CD, Terraform, Ansible, Typescript, Nest.js)**
+- 🔭 I’m currently looking for a job as a Software Engineer ****
+- 🌱 I’m currently learning **Full Stacks(AWS, Docker, Kubernetes, Monitoring, CI/CD, Terraform, Ansible, Typescript, Node.js, Nest.js, React.js, Next.js)**
 - 📝 I regularly write articles on [https://velog.io/@k7nsuy](https://velog.io/@k7nsuy)
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **FullStacks Engineer**
 - 📫 How to reach me **k7nsuy2@gmail.com**
 
 <br />
